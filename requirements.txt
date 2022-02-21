@@ -1,5 +1,5 @@
 future
 PySocks
 requests
-selenium
+selenium==3.141.0
 PyQt5
